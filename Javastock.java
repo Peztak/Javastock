@@ -12,7 +12,7 @@ public class Javastock {
     JPanel pannel = new JPanel();
 
     JTabbedPane onglets = new JTabbedPane(SwingConstants.TOP);
-
+    //Bonjour Monsieurs Bruno & Cderick
     JPanel onglet1 = new JPanel();
     JPanel boutons1 = new JPanel();
     JLabel titreOnglet1 = new JLabel("<html>JAVASTOCK<br><br>Texte pour l'acceuil</html>", JLabel.CENTER);
